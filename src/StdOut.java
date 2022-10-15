@@ -1,13 +1,4 @@
-package prereqchecker;
-/******************************************************************************
 
- *  Compilation:  javac StdOut.java
- *  Execution:    java StdOut
- *  Dependencies: none
- *
- *  Writes data of various types to standard output.
- *
- ******************************************************************************/
 
 import java.lang.System;
 import java.io.OutputStreamWriter;
